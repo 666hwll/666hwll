@@ -1,2 +1,2 @@
 ### Hello 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=666hwll&hide=contribs,prs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=666hwll)
