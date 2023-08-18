@@ -1,6 +1,8 @@
 ### Hello Fellow Strangers
 
-I am Software Developer
+I am a Software Developer
+
+Local Software > Cloud
 
 My main languages are:
 
