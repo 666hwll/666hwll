@@ -2,7 +2,7 @@
 
 I am a Software Developer and GNU/Linux Geek 🐧
 
-Local Software > Cloud || free software > Proprietary software/bloatware
+Local Software > Cloud && free software > Proprietary software/bloatware
 
 ### I want to keep my software as minimalistic as possible, that is why i use:
 -gnu nano
