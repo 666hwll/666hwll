@@ -10,7 +10,7 @@ Local Software > Cloud && free software > Proprietary software/bloatware
 - WM instead of DE
 - GNU ICECAT instead of Chromium based Bloat 
 - my custom version of debian
-- my own screenfetch programm, writen in C
+- my own screenfetch programm, written in C
 ### My main languages are:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666hwll)](https://github.com/anuraghazra/github-readme-stats)
