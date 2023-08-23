@@ -7,8 +7,8 @@ Local Software > Cloud && free software > Proprietary software/bloatware
 ### I want to keep my software as minimalistic as possible, that is why i use:
 - gnu nano
 - Neovim(i will provide some configs later on)
-- WM instead DE
-- GNU ICECAT instead of Chromium based Bloat
+- WM instead of DE
+- GNU ICECAT instead of Chromium based Bloat 
 - my custom version of debian
 - my own screenfetch programm, writen in C
 ### My main languages are:
