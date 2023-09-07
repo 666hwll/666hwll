@@ -6,7 +6,7 @@ Local Software > Cloud && free software > Proprietary software/bloatware
 
 ### I want to keep my software as minimalistic as possible, that is why i use:
 - gnu nano
-- Neovim(i will provide some configs later on)
+- Vim(Neovim has Lua bloat)
 - WM instead of DE
 - GNU ICECAT instead of Chromium based Bloat 
 - my custom version of debian
