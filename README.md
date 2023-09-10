@@ -2,15 +2,14 @@
 
 I am a Software Developer and GNU/Linux Geek 🐧
 
-Local Software > Cloud && free software > Proprietary software/bloatware
+Local Software > Cloudservices of Bigtech && free software > Proprietary software/bloatware
 
 ### I want to keep my software as minimalistic as possible, that is why i use:
 - gnu nano
-- Vim(Neovim has Lua bloat)
-- WM instead of DE
+- Vscode
 - GNU ICECAT instead of Chromium based Bloat 
-- my custom version of debian
 - my own screenfetch programm, written in C
+- my own cli-calculator written in Golang
 ### My main languages are:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666hwll)](https://github.com/anuraghazra/github-readme-stats)
