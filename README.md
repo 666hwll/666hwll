@@ -6,7 +6,7 @@ Local Software > Cloudservices of Bigtech && free software > Proprietary softwar
 
 ## I want to keep my software as minimalistic as possible, that is why i use:
 - gnu nano
-- Vscode
+- VScode only for bigger Projects and Nvim for everythinge else
 - GNU ICECAT instead of Chromium based Bloat 🐈‍⬛
 - my own screenfetch programm, written in C 
 - my own cli-calculator written in Golang 🧮
