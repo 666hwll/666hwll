@@ -16,7 +16,7 @@ Local Software > Cloudservices of Bigtech && free software > Proprietary softwar
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666hwll)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages:
-- German(native) 🎌
+- German(native; Austrian: Styrian) :red
 - English(advanced in word and speech) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - Francais(basic++; still not advanced in word and speech) 🥖
 ## My humble Github stats:
