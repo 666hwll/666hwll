@@ -5,9 +5,9 @@ I am a Software Developer and GNU/Linux Geek 🐧
 Local Software > Cloudservices of Bigtech && free software > Proprietary software/bloatware
 
 ## I want to keep my software as minimalistic as possible, that is why i use:
-- gnu nano
-- VScode only for bigger Projects and Nvim for everythinge else
-- GNU ICECAT instead of Chromium based Bloat 🐈‍⬛
+### debian:
+- Emacs 💻
+- Firefox 🔥
 - my own screenfetch programm, written in C 
 - my own cli-calculator written in Golang 🧮
 ## My main languages are:
