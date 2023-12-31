@@ -6,7 +6,7 @@
 
 ## I want to keep my software as minimalistic as possible, that is why i use:
 ### debian:
-- Emacs 💻
+- nano 💻
 - Firefox 🔥
 - my own screenfetch programm, written in C 
 - my own cli-calculator written in Golang 🧮
