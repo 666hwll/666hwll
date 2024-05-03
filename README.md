@@ -1,9 +1,7 @@
 # Hello 
 
 **I am a Software Developer**
-### >> Trying not to be a soydev
-### >> About to switch to GNU savanna/Gitlab
-### >> all my software will be FOSS
+
 ## My main languages are:
 ### Used in my Public Repos on this Account:
 
