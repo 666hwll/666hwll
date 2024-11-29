@@ -1,4 +1,4 @@
-# The only Freedom Enjoyer in Europe
+# Software Developer and Hardware Tinkerer
 
 ## Projects that matter
 
