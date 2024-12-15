@@ -1,7 +1,7 @@
 # Software Developer, Hardware Tinkerer and Student at HTL Bulme Graz-Gösting
 
 ## Projects that matter
-''' text
+'''text
 - WikiSUM; Desktop Tkinter-Python-App summarizes wikipedia articles and you can ask an english question answering model about the context
 - Simplemath; train your brain with semi-random basic arithmetic operations
 - rpi4-conf; setup configs for usage as a desktop personal computer
@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666hwll)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages:
-''' bash
+'''bash
 - German(native) 🇦🇹
 - English(advanced in word and speech) 🇬🇧
 '''
