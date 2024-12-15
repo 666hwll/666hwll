@@ -1,4 +1,4 @@
-# Software Developer, Hardware Tinkerer and Student at HTL Bulme Graz
+# Software Developer, Hardware Tinkerer and Student at HTL Bulme Graz-Gösting
 
 ## Projects that matter
 
