@@ -1,7 +1,7 @@
 # Software Developer, Hardware Tinkerer and Student at HTL Bulme Graz-Gösting
 
 ## Projects that matter
-```text
+```bash
 - WikiSUM; Desktop Tkinter-Python-App summarizes wikipedia articles and you can ask an english question answering model about the context
 - Simplemath; train your brain with semi-random basic arithmetic operations
 - rpi4-conf; setup configs for usage as a desktop personal computer
