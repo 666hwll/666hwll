@@ -1,4 +1,4 @@
-# Software Developer and Hardware Tinkerer
+# Software Developer, Hardware Tinkerer and Student at HTL Bulme Graz
 
 ## Projects that matter
 
@@ -8,7 +8,7 @@
 
 ### Languages:
 - German(native) 🇦🇹
-- English(advanced in word and speech) 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+- English(advanced in word and speech) 🇬🇧
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=666hwll)
 
