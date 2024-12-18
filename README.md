@@ -22,5 +22,5 @@
 - English(advanced in word and speech) 🇬🇧
 ```
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=666hwll&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=666hwll&show_icons=true&theme=tokyonight)
 
