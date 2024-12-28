@@ -24,3 +24,5 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=666hwll&show_icons=true&theme=tokyonight)
 
+[My minimalistic german Webpage](https://666hwll.github.io/)
+
