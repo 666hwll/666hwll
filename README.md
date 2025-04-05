@@ -25,4 +25,8 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=666hwll&show_icons=true&theme=tokyonight)
 
 [My minimalistic german Webpage](https://666hwll.github.io/)
+--> am currently running experiments with google ads; use ublock origin
+    on gecko based browsers or some browsers with inbuild ad-blocking 
+    capabilities e.g.: Vivaldi, Brave or Librewolf, if you don't want those 
+    to be loaded. In theory you could even block google domains using dns rules.
 
