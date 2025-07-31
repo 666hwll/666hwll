@@ -22,6 +22,10 @@
 - English(advanced in word and speech) 🇬🇧
 ```
 
+### Hands on Experience:
+- Internship at Cilab Gmbh; 1.7 - 31.7.2025 --> Python 🐍 (pymeasures, numpy, matplotlib,...)
+
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=666hwll&show_icons=true&theme=tokyonight)
 
 [My minimalistic german Webpage](https://666hwll.github.io/)
