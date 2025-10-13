@@ -1,6 +1,7 @@
-# Software Developer, Hardware Tinkerer and Student at HTL Bulme Graz-Gösting
+# ⚙️ Darwin Zmugg 🚀
+## Software Developer, Hardware Tinkerer and Student at HTL Bulme Graz-Gösting
 
-## Projects that matter
+## Projects that had the priviledge of maintenance 🛠️
 ```bash
 - WikiSUM; Desktop Tkinter-Python-App summarizes wikipedia articles and you can ask an english question answering model about the context
 - Simplemath; train your brain with semi-random basic arithmetic operations
