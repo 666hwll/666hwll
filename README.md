@@ -19,7 +19,7 @@
 
 ### Languages:
 ```bash
-- German(native) 🇦🇹
+- German(native) 🇩🇪
 - English(advanced in word and speech) 🇬🇧
 ```
 
