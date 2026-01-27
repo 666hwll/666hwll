@@ -31,3 +31,8 @@
 
 [My minimalistic german Webpage](https://666hwll.github.io/)
 
+### Experiences by YEAR:
+  ####2026: 
+  - January:
+    - Tag der offenen Tür 2025/26 HTL BULME Graz-Gösting: Medtech -> showing of an ultrasoundmachine, a patient monitor and EKG-sensors
+    - AT&S -> attending a guided tour of the facilities
