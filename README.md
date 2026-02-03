@@ -34,5 +34,8 @@
 ### Experiences by YEAR:
 #### 2026: 
   - January:
-    - Tag der offenen Tür 2025/26 HTL BULME Graz-Gösting: Medtech -> showing of an ultrasoundmachine, a patient monitor and EKG-sensors
+    - Tag der offenen Tür 2025/26 HTL BULME Graz-Gösting: Medtech -> showing of an ultrasoundmachine, a patient monitor and EKG-sensors & showing and explaing of KiCAD + electronic circuits to parents and curious folks
+          Friday, the 30. January: 14:00 - 19:00
+          Saturday, the 31. January: 9:00 - 13:00 
     - AT&S -> attending a guided tour of the facilities
+          Wednesday, the 4. February
