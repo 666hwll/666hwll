@@ -40,4 +40,5 @@
 
       Saturday, the 31. January: 9:00 - 13:00 
     - AT&S Fehring -> attending a guided tour of the facilities: the fifth biggest in europe
-          Wednesday, the 4. February
+
+      Wednesday, the 4. February
