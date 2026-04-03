@@ -44,7 +44,7 @@
       Wednesday, the 4. February
 
 
-### Why i am also creating a codeberg with the same name ![(codeberg.org/666hwll)](https://codeberg.org/666hwll)
+### Why i am also creating a codeberg with the same name [(codeberg.org/666hwll)](https://codeberg.org/666hwll)
   - because i can just use 'git' standalone like you could before Github enforced 2FA
   - it is hosted and managed in Germany, so it must adhere to EU and DSGVO laws
   - made and funded by developers; funded over donations and not over AI promises
