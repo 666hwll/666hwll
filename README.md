@@ -4,7 +4,7 @@
 ## Projects that had the priviledge of maintenance 🛠️
 ```bash
 - WikiSUM; Desktop Tkinter-Python-App summarizes wikipedia articles and you can ask an english question answering model about the context
-- Simplemath; train your brain with semi-random basic arithmetic operations
+- Simplemath; train your brain in the terminal with semi-random basic arithmetic operations, now a bit more duolingo like with more stats coming in the future
 - rpi4-conf; setup configs for usage as a desktop personal computer
 - b64-encryptPWA; a progressive safari Webapp that utilizes a tweaked version of base64 to encrypt and decrypt strings/messages
 - mkdeb; build .deb packages in seconds with this script
