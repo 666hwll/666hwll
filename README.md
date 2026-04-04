@@ -48,7 +48,7 @@
   - because i can just use 'git' standalone like you could before Github enforced 2FA
   - it is hosted and managed in Germany, so it must adhere to EU and DSGVO laws
   - made and funded by developers; funded over donations and not over AI promises
-  - Open Source Nature
+  - Open Source Nature of Forgejo
 #### What this means for this account
   - stil receiving updates and projects, but not all, just like before
   - my poor raspberry pi 4b doesn't need to be my ssh-git-server anymore, running on nothing but microsd-cards, wifi and energy
