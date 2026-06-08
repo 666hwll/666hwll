@@ -36,12 +36,16 @@
   - January:
     - Tag der offenen Tür 2025/26 HTL BULME Graz-Gösting: Medtech -> showing of an ultrasoundmachine, a patient monitor and EKG-sensors & showing and explaing of KiCAD + electronic circuits to parents and curious folks
 
-      Friday, the 30. January: 14:00 - 19:00
+      Friday, 30th of January: 14:00 - 19:00
 
-      Saturday, the 31. January: 9:00 - 13:00 
+      Saturday, 31st of January: 9:00 - 13:00 
     - AT&S Fehring -> attending a guided tour of the facilities: the fifth biggest in europe
 
-      Wednesday, the 4. February
+      Wednesday, 4th of February
+  - June:
+    - Reverse Engineered the power break out Board of the Brother P Touch 09'
+
+      Monday, 8th of June
 
 
 ### Why i am also creating a codeberg with the same name [(codeberg.org/666hwll)](https://codeberg.org/666hwll)
