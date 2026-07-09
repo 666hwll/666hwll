@@ -15,7 +15,7 @@
 - clock; attempt to build a cli-clock application - still a work in progress
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=666hwll&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=666hwll&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages:
 ```bash
@@ -27,7 +27,7 @@
 - Internship at Cilab Gmbh; 1.7 - 31.7.2025 --> Python 🐍 (pymeasures, numpy, matplotlib,...)
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=666hwll&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-stats-extended.vercel.app/api?username=666hwll&show_icons=true&theme=tokyonight)
 
 [My minimalistic german Webpage](https://666hwll.github.io/)
 
